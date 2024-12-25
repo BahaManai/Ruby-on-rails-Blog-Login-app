@@ -24,3 +24,10 @@ Technologies Used :
 Outcome :
 
 This project helped me enhance my understanding of web application security, authentication mechanisms, and the Ruby on Rails framework. It served as an important learning experience in building secure, user-friendly applications with real-time data management. Through this project, I gained practical experience in implementing user authentication, managing user data, and designing responsive web applications.
+
+Some Screenshots :
+
+![Screenshot (55)](https://github.com/BahaManai/Ruby-on-rails-Blog-Login-app/blob/main/app/assets/images/0.png)
+![Screenshot (55)](https://github.com/BahaManai/Ruby-on-rails-Blog-Login-app/blob/main/app/assets/images/1.png)
+![Screenshot (55)](https://github.com/BahaManai/Ruby-on-rails-Blog-Login-app/blob/main/app/assets/images/2.png)
+![Screenshot (55)](https://github.com/BahaManai/Ruby-on-rails-Blog-Login-app/blob/main/app/assets/images/3.png)
